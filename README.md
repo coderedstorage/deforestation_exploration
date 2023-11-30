@@ -1,5 +1,5 @@
-# DA103.3 Project: Deforestation Exploration (Udacity)
-
+# DA103.3 Project: Deforestation Exploration (Udacity) aka Deforestation Exploration EDA
+* EDA refers to exploratory data analysis
 # Metadata: World Bank data for country level total land and forest areas
 * Data is provided within Udacity's proprietary SQL Workspace.
 
